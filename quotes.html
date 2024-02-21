@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Quote Display</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        background-image: url('movie-background.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: 100% 100%;
+    }
+
+    #quoteSection {
+        flex: 0.8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+        margin: 5%;
+		font-family: impact;
+		color: #D4FB79;
+		text-shadow: 0 1px 0 #CCCCCC, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+    }
+
+    #quoteText {
+        text-align: center;
+    }
+
+    #attribution {
+        flex: 0.2;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: left;
+            font-family: impact;
+            font-size: 3.7vw;
+            background: rgba(0,0,0,0.45);
+    }
+
+
+	#movieTitle {
+		display: table;
+		color: white;
+		font-family: sans-serif;
+		text-shadow: 2px 1px 0 black;
+		margin-left: 12%;
+	}
+	#whoSaid {
+		display: table;
+		color: yellow;
+		font-family: sans-serif;
+		text-shadow: 2px 1px 0 black;
+		margin-left: 10%;
+	}
+
+
+</style>
+</head>
+<body>
+<div id="quoteSection">
+    <p id="quoteText"></p>
+</div>
+<div id="attribution">
+    <p><span id="whoSaid"></span><span id="movieTitle"></span></p>
+</div>
+
+<script>
+
+        fetch('quotes.txt')
+		  .then(response => response.text())
+		  .then(text => {
+			const data = text.split('\n').map(line => line.split('\t'));
+			const randomIndex = Math.floor(Math.random() * data.length);
+			const [movietitle, quoteone, quotetwo, whosaidone, whosaidtwo, movieyear] = data[randomIndex];
+
+    var fullquote = "";
+    if(quotetwo !== "") {
+        var fullquote = '"' + quoteone + '"<br><br>"' + quotetwo + '"'; // Combining variables if quotetwo is not empty
+    } else {
+        var fullquote = '"' + quoteone + '"';
+    }
+    if(whosaidtwo !== "") {
+        var attribution = "– " + whosaidone + '<br>– ' + whosaidtwo; 
+    } else {
+        var attribution = '– ' + whosaidone;
+    }
+
+						
+			document.getElementById('quoteText').innerHTML = fullquote;
+			document.getElementById('whoSaid').innerHTML = attribution;
+			document.getElementById('movieTitle').innerHTML = movietitle + " (" + movieyear + ")";
+			//document.getElementById('releaseDate').textContent = movieyear;
+		
+			const quoteElement = document.getElementById('quoteText');
+			let fontSize = 150; // Initial font size
+			quoteElement.style.fontSize = fontSize + 'px';
+		
+			while (quoteElement.clientHeight > 0.9 * window.innerHeight * 0.8) {
+				fontSize -= 1;
+				quoteElement.style.fontSize = fontSize + 'px';
+			}			
+			
+			});
+
+
+
+
+
+
+</script>
+</body>
+</html>
