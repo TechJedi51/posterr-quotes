@@ -1,0 +1,4952 @@
+{
+	"XMLRESULT": {
+		"DATABASE": {
+			"_DATEFORMAT": "M/d/yyyy",
+			"_LAYOUT": "",
+			"_NAME": "Movie Quotes FM",
+			"_RECORDS": "204",
+			"_TIMEFORMAT": "h:mm:ss a"
+		},
+		"METADATA": {
+			"FIELD": [
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Movie",
+					"_TYPE": "TEXT"
+				},
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Quote Line 1",
+					"_TYPE": "TEXT"
+				},
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Quote Line 2",
+					"_TYPE": "TEXT"
+				},
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Who said it L1",
+					"_TYPE": "TEXT"
+				},
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Who said it L2",
+					"_TYPE": "TEXT"
+				},
+				{
+					"_EMPTYOK": "YES",
+					"_MAXREPEAT": "1",
+					"_NAME": "Year",
+					"_TYPE": "TEXT"
+				}
+			]
+		},
+		"RESULTSET": {
+			"ROW": [
+				{
+					"COL": [
+						{
+							"DATA": "2001: A Space Odyssey"
+						},
+						{
+							"DATA": "Open the pod bay doors, please, HAL."
+						},
+						{
+							"DATA": "I am sorry Dave,\nbut I can't do that."
+						},
+						{
+							"DATA": "Keir Dullea as Dave Bowman"
+						},
+						{
+							"DATA": "Douglas Rain as HAL-9000"
+						},
+						{
+							"DATA": "1968"
+						}
+					],
+					"_MODID": "12",
+					"_RECORDID": "8"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "A Christmas Story"
+						},
+						{
+							"DATA": "You'll shoot your eye out."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Melinda Dillon as Mother Parker"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1983"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "177"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "A Cry in the Dark"
+						},
+						{
+							"DATA": "The dingo took my baby!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Meryl Streep as Lindy"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "157"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "A Few Good Men"
+						},
+						{
+							"DATA": "You can't handle the truth!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jack Nicholson as Col. Nathan R. Jessep"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "63"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "A League of Their Own"
+						},
+						{
+							"DATA": "There's no crying in baseball!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tom Hanks as Jimmy Dugan"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "74"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "A Streetcar Named Desire"
+						},
+						{
+							"DATA": "Stella! Hey, Stella!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marlon Brando as Stanley Kowalski"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1951"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "72"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Ace Ventura: Pet Detective"
+						},
+						{
+							"DATA": "Alrighty then."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jim Carrey as Ace Ventura"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "106"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Airplane"
+						},
+						{
+							"DATA": "Surely you can't be serious."
+						},
+						{
+							"DATA": "I am serious... and don't call me Shirley!"
+						},
+						{
+							"DATA": "Robert Hays as Ted Striker"
+						},
+						{
+							"DATA": "Leslie Nielsen as Dr. Rumack"
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "18",
+					"_RECORDID": "19"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Airplane"
+						},
+						{
+							"DATA": "Oh Stewardess,\nI speak Jive."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Barbra Billingsly as Jive Lady"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "11",
+					"_RECORDID": "20"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Airplane"
+						},
+						{
+							"DATA": "Looks like I picked the wrong week to quit sniffing glue."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Lloyd Bridges as Steven McCroskey"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "12",
+					"_RECORDID": "144"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Aliens"
+						},
+						{
+							"DATA": "Game over, man!\nGame over!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bill Paxton as Hudson"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1979"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "115"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "All About Eve"
+						},
+						{
+							"DATA": "Fasten your seatbelts,\nit's going to be a bumpy night."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bette Davis as Margo Channing"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1950"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "200"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Almost Famous"
+						},
+						{
+							"DATA": "If you think Mick Jagger will be out there trying to be a rock star at age 50, then you are sadly, sadly mistaken."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jimmy Fallon as Dennis Hope"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2000"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "137"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "American Pie"
+						},
+						{
+							"DATA": "This one time, at band camp…"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Alyson Hannigan as Michelle Flaherty"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "162"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Animal Crackers"
+						},
+						{
+							"DATA": "One morning I shot an elephant in my pajamas.\nHow he got in my pajamas, I don't know."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Groucho Marx as Capt. Geoffrey T. Spaulding"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1930"
+						}
+					],
+					"_MODID": "11",
+					"_RECORDID": "14"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Apocalypsy Now"
+						},
+						{
+							"DATA": "I love the smell of napalm in the morning."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert Duvall as Lieutenant Colonel Bill Kilgore"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1979"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "49"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Apollo 13"
+						},
+						{
+							"DATA": "Houston, we have a problem."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tom Hanks as Jim Lovell"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1995"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "73"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Army of Darkness"
+						},
+						{
+							"DATA": "Hail to the king, baby."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bruce Campbell as Ash Williams"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "201"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Arsenic and Old Lace"
+						},
+						{
+							"DATA": "Insanity runs in my family.\nIt practically gallops."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Carry Grant as Mortimer Brewster"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1944"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "139"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "As Good As It Gets"
+						},
+						{
+							"DATA": "You make me want to be a better man."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jack Nicholson as Melvin Udall"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1997"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "176"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Avengers: Endgame"
+						},
+						{
+							"DATA": "I love you 3000."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert Downey, Jr. as Tony Stark/Iron Man"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2019"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "203"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Babe"
+						},
+						{
+							"DATA": "That'll do pig.\nThat'll do."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "James Cromwell as Farmer Hoggett"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1995"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "156"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Back to the Future"
+						},
+						{
+							"DATA": "Roads? Where were going we don't need roads."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Christopher Lloyd as Dr. Brown"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1985"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "6"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blade Runner"
+						},
+						{
+							"DATA": "All those moments will be lost in time, like tears in rain. Time to die."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Rutger Hauer as Roy Batty"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "105"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blast from the Past"
+						},
+						{
+							"DATA": "I think I'm being chased by a psychologist"
+						},
+						{
+							"DATA": "It happens"
+						},
+						{
+							"DATA": "Brendan Fraser as Adam"
+						},
+						{
+							"DATA": "Joey Slotnick as Soda Jerk"
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "29"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blazing Saddles"
+						},
+						{
+							"DATA": "I must have killed more men than Cecil B. DeMille."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gene Wilder as Jim"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "192"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blazing Saddles"
+						},
+						{
+							"DATA": "It's not Hedy,\nit's Hedley.\nHedley Lamarr."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harvey Coreman as Hedley Lamarr"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "193"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blazing Saddles"
+						},
+						{
+							"DATA": "A wed wose.\nHow womantic."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Madeline Kahn as Lili Von Shtupp"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "194"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blazing Saddles"
+						},
+						{
+							"DATA": "Excuse me while I whip this out."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Cleavon Little as Bart"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "195"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Blues Brothers"
+						},
+						{
+							"DATA": "Yeah, lots of space in this mall."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dan Aykroyd as Elwood Blues"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "5"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Bonnie and Clyde"
+						},
+						{
+							"DATA": "We rob banks."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Warren Beatty as Clyde Barrow"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1967"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "69"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Caddyshack"
+						},
+						{
+							"DATA": "Cinderella story. Outta nowhere.\nA former greenskeeper, now, about to become the Masters champion.\nIt looks like a mirac...\nIt's in the hole! It's in the hole! It's in the hole!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bill Murray as Carl Spackler"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "88"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Cape Fear"
+						},
+						{
+							"DATA": "Come out, come out,\nwherever you are."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert DeNiro as Max Caddy"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1991"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "110"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Casablanca"
+						},
+						{
+							"DATA": "\"Round up the usual suspects."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Claude Rains as Capt. Louis Renault"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1942"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "23"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Casablanca"
+						},
+						{
+							"DATA": "Louis, I think this is the beginning of a beautiful friendship."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Humphrey Bogart as Rick Blaine"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1942"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "46"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Casablanca"
+						},
+						{
+							"DATA": "Here's looking at you, kid."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Humphrey Bogart as Rick Blaine"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1942"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "56"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Casablanca"
+						},
+						{
+							"DATA": "Of all the gin joints in all the towns in all the world, she walks into mine."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Humphrey Bogart as Rick Blaine"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1942"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "81"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Citizen Kane"
+						},
+						{
+							"DATA": "Rosebud"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Orson Welles as Kane"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1941"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "54"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Clerks"
+						},
+						{
+							"DATA": "I'm not even supposed to be here today."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Brian O'Halloran as Dante Hicks"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "135"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Close Encounters of the Third Kind"
+						},
+						{
+							"DATA": "You can't fool us by agreeing with us."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Richard Dryfus as Roy Neary"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "17"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Close Encounters of the Third Kind"
+						},
+						{
+							"DATA": "I hope someone is copying this down."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Richard Dreyfuss as Roy Neary"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "33"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Clueless"
+						},
+						{
+							"DATA": "Ugh, as if!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Alicia Silverstone as Cher Horowitz"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1995"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "107"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Cool Hand Luke"
+						},
+						{
+							"DATA": "What we've got here is failure to communicate."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Strother Martin as Captain"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1967"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "12"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Die Hard"
+						},
+						{
+							"DATA": "Come out to the coast, we'll get together, have a few laughs..."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bruce Willis as John McClane"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "182"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Die Hard"
+						},
+						{
+							"DATA": "Yippee-ki-yay, motherfucker."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bruce Willis as John McClane"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "183"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Die Hard"
+						},
+						{
+							"DATA": "We're gonna need some more FBI guys, I guess."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Paul Gleason as Dwayne T. Robinson"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "184"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dirty Dancing"
+						},
+						{
+							"DATA": "Nobody puts Baby in a corner."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Patrick Swayze as Johnny Castle"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "91"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dirty Harry"
+						},
+						{
+							"DATA": "You've got to ask yourself one question:\n'Do I feel lucky?'\nWell, do ya, punk?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Clint Eastwood as Harry Callahan"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1971"
+						}
+					],
+					"_MODID": "11",
+					"_RECORDID": "25"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dr. No"
+						},
+						{
+							"DATA": "Bond, James Bond"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Sean Connery as James Bond, 007"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1963"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "58"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+						},
+						{
+							"DATA": "Gentlemen, you can't fight in here!\nThis is the War Room!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Peter Sellers as President Merkin Muffley"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1964"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "9"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dracula"
+						},
+						{
+							"DATA": "Listen to them. Children of the night.\nWhat music they make."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bela Lugosi as Count Dracula"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1931"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "86"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Dragnet"
+						},
+						{
+							"DATA": "Look out, Muppets!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dan Aykroyd as Sgt. Friday"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "12",
+					"_RECORDID": "1"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "E.T. The Extra-Terrestrial"
+						},
+						{
+							"DATA": "E.T. phone home."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Pat Welsh as E.T."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "52"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Emergency!"
+						},
+						{
+							"DATA": "Squad 51,\nKMG-365"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Cast"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1972"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "4"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Ferris Bueller's Day Off"
+						},
+						{
+							"DATA": "Bueller? Bueller? Bueller?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ben Stein as the Economics Teacher"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1986"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "108"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Field of Dreams"
+						},
+						{
+							"DATA": "If you build it,\nhe will come."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Kevin Costner as Ray Kinsella"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1989"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "67"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Fight Club"
+						},
+						{
+							"DATA": "First rule of Fight Club is...\nyou do not talk about Fight Club."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Brad Pitt as Tyler Durden"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "114"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Forrest Gump"
+						},
+						{
+							"DATA": "My mama always said life was like a box of chocolates.\nYou never know what you're gonna get."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tom Hanks as Forrest Gump"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "68"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Forrest Gump"
+						},
+						{
+							"DATA": "Mama says, 'Stupid is as stupid does.'"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tom Hanks as Forrest Gump"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "146"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Frankenstein"
+						},
+						{
+							"DATA": "It's alive!\nIt's alive!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Colin Clive as Henry Frankenstein"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1931"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "24"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Full Metal Jacket"
+						},
+						{
+							"DATA": "What is your major malfunction?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "R. Lee Ermey as Sgt. Hartman"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "170"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Ghostbusters"
+						},
+						{
+							"DATA": "Don't cross the streams."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harold Ramis as Egon Spengler"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1984"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "111"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Glengarry Glen Ross"
+						},
+						{
+							"DATA": "Coffee's for closers only."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Alec Baldwin as Blake"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "197"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Goldfinger"
+						},
+						{
+							"DATA": "A martini. Shaken,\nnot stirred."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Sean Connery as James Bond"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1964"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "7"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Goldfinger"
+						},
+						{
+							"DATA": "No Mr. Bond,\nI Expect You to Die"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gert Fröbe as Auric Goldfinger"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1964"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "100"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Gone with the Wind"
+						},
+						{
+							"DATA": "Frankly, my dear,\nI don't give a damn.\""
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Clark Gable as Rhett Butler"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "42"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Good Morning, Vietnam"
+						},
+						{
+							"DATA": "Good morning,\nVietnam!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robin Williams as Adrian Cronauer"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "116"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Good Will Hunting"
+						},
+						{
+							"DATA": "How do you like them apples?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Matt Damon as Will Hunting"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1997"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "124"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Goodfellas"
+						},
+						{
+							"DATA": "All day the poor guy has been watching helicopters and tomato sauce."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ray Liotta as Henry Hill"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "5",
+					"_RECORDID": "31"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Goodfellas"
+						},
+						{
+							"DATA": "I'm funny how?\nI mean, funny like I'm a clown?\nI amuse you?\nI make you laugh?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Joe Pesci as Tommy DeVito"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "132"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Grosse Pointe Blank"
+						},
+						{
+							"DATA": "If I show up at your door, chances are you did something to bring me there."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "John Cusack as Marty"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1997"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "18"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Guardians of Galaxy"
+						},
+						{
+							"DATA": "I am Groot."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Vin Diesel as Groot"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2014"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "125"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Harvey"
+						},
+						{
+							"DATA": "Well, I've wrestled with reality for thirty-five years, doctor, and I'm happy to state I finally won out over it."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jimmy Stewart as Elwood P. Dowd"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1950"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "168"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Home Alone"
+						},
+						{
+							"DATA": "Keep the change,\nya filthy animal."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ralph Foody as Gangster 'Johnny'"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "191"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "In the Heat of the Night"
+						},
+						{
+							"DATA": "They call me Mister Tibbs!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Sidney Poitier as Virgil Tibbs"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1967"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "53"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Indiana Jones and the Last Crusade"
+						},
+						{
+							"DATA": "He chose poorly."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert Eddison as the Grail Knight"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1989"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "120"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "It's a Wonderful Life"
+						},
+						{
+							"DATA": "Teacher says, every time a bell rings an angel gets his wings."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Karolyn Grimes as Zuzu Bailey"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1946"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "113"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Jaws"
+						},
+						{
+							"DATA": "You're gonna need a bigger boat."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Roy Scheider as Martin Brody"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1965"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "11"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Jerry Maguire"
+						},
+						{
+							"DATA": "You had me at hello!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Renée Zellweger as Dorothy Boyd"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1996"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "61"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Jurassic Park"
+						},
+						{
+							"DATA": "If the Pirates of the Caribbean breaks down,\nthe pirates don't eat the tourists."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jeff Goldblum as Dr. Ian Malcolm"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "12",
+					"_RECORDID": "27"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Jurassic Park"
+						},
+						{
+							"DATA": "Life finds a way."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jeff Goldblum as Dr. Ian Malcolm"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "13",
+					"_RECORDID": "198"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "King Kong"
+						},
+						{
+							"DATA": "Oh, no, it wasn't the airplanes.\nIt was Beauty killed the Beast."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert Armstrong as Carl Denham"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1933"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "87"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Knute Rockne All American"
+						},
+						{
+							"DATA": "Win just one for the Gipper."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ronald Reagan as George Gipp"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1940"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "173"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Love Story"
+						},
+						{
+							"DATA": "Love means never having to say you're sorry."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ryan O'Neal as Oliver Barrett IV"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1970"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "50"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Marathon Man"
+						},
+						{
+							"DATA": "Is it safe?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Laurence Olivier as Dr. Christian Szell"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "16"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Midnight Cowboy"
+						},
+						{
+							"DATA": "I'm walking here!\nI'm walking here!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dustin Hoffman as Joe Buck"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1969"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "62"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Monty Python and the Holy Grail"
+						},
+						{
+							"DATA": "It's just a flesh wound."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "John Cleese as The Black Knight"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1975"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "196"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Monty Python's Flying Circus"
+						},
+						{
+							"DATA": "Nobody expects the Spanish Inquisition!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Michael Palin as Cardinal Ximénez"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1969"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "148"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Moonstruck"
+						},
+						{
+							"DATA": "Snap out of it!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Cher as Loretta Castorini"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "90"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "My Cousin Vinny"
+						},
+						{
+							"DATA": "My biological clock is ticking..."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marisa Tomei as Mona Lisa Vito"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "147"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "My Favorite Year"
+						},
+						{
+							"DATA": "I'm not an actor,\nI am a Movie Star!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Peter O'Toole as Alan Swan"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "5",
+					"_RECORDID": "32"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Network"
+						},
+						{
+							"DATA": "I'm as mad as hell, and I'm not going to take this anymore!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Peter Finch as Howard Beale"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "10"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Notting Hill"
+						},
+						{
+							"DATA": "I'm also just a girl standing in front of a boy asking him to love her."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Julia Roberts as Anna Scott"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "130"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Office Space"
+						},
+						{
+							"DATA": "The ratio of people to cake is too big."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Stephen Root as Milton Waddams"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "96"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Office Space"
+						},
+						{
+							"DATA": "Excuse me, I believe you have my stapler..."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Stephen Root as Milton Waddams"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "97"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Office Space"
+						},
+						{
+							"DATA": "Looks like you've been missing a lot of work lately."
+						},
+						{
+							"DATA": "I wouldn't say I've been \"missing\" it, Bob."
+						},
+						{
+							"DATA": "Paul Wilson as Bob Porter"
+						},
+						{
+							"DATA": "Ron Livingston as Peter Gibbons"
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "98"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "On the Waterfront"
+						},
+						{
+							"DATA": "You don't understand!\nI coulda had class.\nI coulda been a contender.\nI could've been somebody, instead of a bum, which is what I am."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marlon Brando as Terry Malloy"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1954"
+						}
+					],
+					"_MODID": "6",
+					"_RECORDID": "44"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Peter Pan"
+						},
+						{
+							"DATA": "Second star to the right and straight on 'til morning."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Bobby Driscoll as Peter Pan"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1953"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "153"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Planet of the Apes"
+						},
+						{
+							"DATA": "Take your stinking paws off me, you damned dirty ape!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Charlton Heston as Taylor"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1968"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "15"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Poltergeist"
+						},
+						{
+							"DATA": "They're here!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Heather O'Rourke as Carol Anne Freeling"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "26"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Pottersville"
+						},
+						{
+							"DATA": "I don't think you're stupid, I just think sometimes when it comes to thinking, you have bad luck."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ian McShane as Bart"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2017"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "41"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Pretty Woman"
+						},
+						{
+							"DATA": "Big mistake.\nBig. Huge.\nI have to go shopping now."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Julia Roberts as Vivian"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "199"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Psycho"
+						},
+						{
+							"DATA": "We all go a little mad sometimes."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Anthony Perkins as Norman Bates"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1960"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "166"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Quick Change"
+						},
+						{
+							"DATA": "Its bad luck, just seeing a thing like that."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Randy Quaid"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "3"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Raiders of the Lost Ark"
+						},
+						{
+							"DATA": "It's not the years, honey.\nIt's the mileage."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harrison Ford as Indiana Jones"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1981"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "104"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Raiders of the Lost Ark"
+						},
+						{
+							"DATA": "Snakes…\nwhy'd it have to be snakes?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harrison Ford as Indiana Jones"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1981"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "155"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Rain Man"
+						},
+						{
+							"DATA": "I'm an excellent driver."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dustin Hoffman as Raymond Babbitt"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "131"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Raising Arizona"
+						},
+						{
+							"DATA": "I'll be taking these Huggies\nand whatever cash you got."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Nicholas Cage as H.I. McDunnough"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "129"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Reality Bites"
+						},
+						{
+							"DATA": "What's your glitch?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ben Stiller as Michael Grates"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "171"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Rebel Without a Cause"
+						},
+						{
+							"DATA": "You're tearing me apart!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "James Dean as Jim Stark"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1955"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "178"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Rocky"
+						},
+						{
+							"DATA": "Yo, Adrian!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Sylvester Stallone as Rocky Balboa"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "85"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Rosemary's Baby"
+						},
+						{
+							"DATA": "What have you done to his eyes, you maniacs!"
+						},
+						{
+							"DATA": "He has his father's eyes."
+						},
+						{
+							"DATA": "Mia Farrow as Rosemary Woodhouse"
+						},
+						{
+							"DATA": "Sidney Blackmer as Roman Castevet"
+						},
+						{
+							"DATA": "1968"
+						}
+					],
+					"_MODID": "6",
+					"_RECORDID": "30"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Scarface"
+						},
+						{
+							"DATA": "Say \"hello\" to my little friend!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Al Pacino as Tony Montana"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1983"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "78"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Scent of a Woman"
+						},
+						{
+							"DATA": "Hoo-ah!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Al Pacino as Lt. Col. Frank Slade"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1992"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "123"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "She Done Him Wrong"
+						},
+						{
+							"DATA": "Why don't you come up sometime and see me?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mae West as Lady Lou"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1933"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "22"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Silent Movie"
+						},
+						{
+							"DATA": "Non!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marcel Marceau as himself"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "149"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Snow White"
+						},
+						{
+							"DATA": "Mirror, mirror on the wall, who is the fairest of them all?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Lucille La Verne as the Evil Queen"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1937"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "172"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "So I Married an Axe Murderer"
+						},
+						{
+							"DATA": "If it’s Not Scottish it’s CRAP!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mike Myers as Stuart MacKenzie"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "179"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "So I Married an Axe Murderer"
+						},
+						{
+							"DATA": "HEED! PANTS! NOW!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mike Myers as Stuart MacKenzie"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "180"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "So I Married an Axe Murderer"
+						},
+						{
+							"DATA": "I think most Scottish cuisine is based on a dare."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mike Myers as Charlie MacKenzie"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "181"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Some Like it Hot"
+						},
+						{
+							"DATA": "Real diamonds!\nThey must be worth their weight in gold!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marilyn Monroe as Sugar Kane Kowalczyk"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1959"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "152"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Sons of the Desert"
+						},
+						{
+							"DATA": "Well, here's another nice mess you've gotten me into!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Oliver Hardy"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1933"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "77"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Soylent Green"
+						},
+						{
+							"DATA": "Soylent Green is people!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Charlton Heston as Detective Thorn"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1973"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "84"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Spider-Man"
+						},
+						{
+							"DATA": "With great power comes great responsibility."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Cliff Robertson as Uncle Ben Parker"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2002"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "174"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Trek"
+						},
+						{
+							"DATA": "Live Long and Prosper."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Leonard Nimoy as Mr. Spock"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1965"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "34"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Trek II: The Wrath of Khan"
+						},
+						{
+							"DATA": "Khaaannnn!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "William Shatner as James T. Kirk"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "5",
+					"_RECORDID": "35"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Trek II: The Wrath of Khan"
+						},
+						{
+							"DATA": "Of my friend, I can only say this. Of all the souls I have encountered in my travels, his was the most... human."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "William Shatner as James T. Kirk"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "150"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Trek II: The Wrath of Khan"
+						},
+						{
+							"DATA": "The needs of the many outweigh the needs of the few."
+						},
+						{
+							"DATA": "Or the One."
+						},
+						{
+							"DATA": "Leonard Nimoy as Mr. Spock"
+						},
+						{
+							"DATA": "William Shatner as James T. Kirk"
+						},
+						{
+							"DATA": "1982"
+						}
+					],
+					"_MODID": "6",
+					"_RECORDID": "159"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars"
+						},
+						{
+							"DATA": "Remember…the Force will be with you, always."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Alec Guiness as Obi Wan Kenobi"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1977"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "36"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode IV - A New Hope"
+						},
+						{
+							"DATA": "Help me, Obi-Wan Kenobi.\nYou're my only hope."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Carrie Fisher as Princess Leia"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1977"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "122"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode IV - A New Hope"
+						},
+						{
+							"DATA": "I got a bad feeling about this."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harrison Ford as Han Solo"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1977"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "126"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode V - The Empire Strikes Back"
+						},
+						{
+							"DATA": "Do. Or do not.\nThere is no try."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Frank Oz as Yoda"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "6",
+					"_RECORDID": "37"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode V - The Empire Strikes Back"
+						},
+						{
+							"DATA": "I love you."
+						},
+						{
+							"DATA": "I know."
+						},
+						{
+							"DATA": "Carrie Fisher as Princess Leia Organa"
+						},
+						{
+							"DATA": "Harrison Ford as Hand Solo"
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "101"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode V - The Empire Strikes Back"
+						},
+						{
+							"DATA": "Do… or do not.\nThere is no try."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Frank Oz as Yoda"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "112"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode VII - The Force Awakens"
+						},
+						{
+							"DATA": "Chewie, we're home."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Harrison Ford as Han Solo"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2015"
+						}
+					],
+					"_MODID": "7",
+					"_RECORDID": "204"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode VIII - The Last Jedi"
+						},
+						{
+							"DATA": "We're going to win this war not by fighting what we hate, but saving what we love!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Kelly Marie Tran as Rose Tico"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2017"
+						}
+					],
+					"_MODID": "6",
+					"_RECORDID": "38"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode VIII - The Last Jedi"
+						},
+						{
+							"DATA": "This is not going to go the way you think!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mark Hamil as Luke Skywalker"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2017"
+						}
+					],
+					"_MODID": "5",
+					"_RECORDID": "39"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Star Wars: Episode VIII - The Last Jedi"
+						},
+						{
+							"DATA": "Hope is like the sun. If you only believe it when you see it you'll never make it through the night."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Carrie Fisher as General Leia"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2017"
+						}
+					],
+					"_MODID": "5",
+					"_RECORDID": "40"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Sudden Impact"
+						},
+						{
+							"DATA": "Go ahead,\nmake my day."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Clint Eastwood as Dirty Harry"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1983"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "47"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Sunset Blvd."
+						},
+						{
+							"DATA": "All right, Mr. DeMille,\nI'm ready for my close-up."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gloria Swanson as Nora Desmond"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1950"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "48"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Sunset Blvd."
+						},
+						{
+							"DATA": "I am big!\nIt's the pictures that got small."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gloria Swanson as Nora Desmond"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1950"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "60"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Super Fly"
+						},
+						{
+							"DATA": "Can you dig it?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Ron O'Neal as Youngblood Priest,"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1972"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "109"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Superman"
+						},
+						{
+							"DATA": "It's amazing that brain can generate enough power to keep those legs moving."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gene Hackman as Lex Luthor"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1978"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "28"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Superman The Movie"
+						},
+						{
+							"DATA": "You've got me,\nwho's got you?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Margot Kidder as Lois Lane"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1978"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "103"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Superman: The Movie"
+						},
+						{
+							"DATA": "You've got me...\nwho's got you?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Margot Kidder as Lois Lane"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1978"
+						}
+					],
+					"_MODID": "11",
+					"_RECORDID": "2"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Swingers"
+						},
+						{
+							"DATA": "Vegas, baby, Vegas!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Vince Vaughn as Trent Walker"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1996"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "163"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Taken"
+						},
+						{
+							"DATA": "What I do have is a particular set of skills."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Liam Neeson as Bryan Mills"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2008"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "169"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Taxi Driver"
+						},
+						{
+							"DATA": "You talkin' to me?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert De Niro as Travis Bickle"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1976"
+						}
+					],
+					"_MODID": "9",
+					"_RECORDID": "21"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Terminator 2: Judgment Day"
+						},
+						{
+							"DATA": "Hasta la vista, baby."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Arnold Schwarzenegger as The Terminator"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1991"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "83"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Adventures of Sherlock Holmes"
+						},
+						{
+							"DATA": "Elementary, my dear Watson."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Basil Rathbone as Sherlock Holmes"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "80"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Big Lebowski"
+						},
+						{
+							"DATA": "I'm the Dude, man."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jeff Bridges as The Dude (Jeffrey Lebowski)"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1998"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "136"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Big Lebowski"
+						},
+						{
+							"DATA": "The Dude abides."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jeff Bridges as The Dude (Jeffrey Lebowski)"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1998"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "158"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Blues Brothers"
+						},
+						{
+							"DATA": "We're on a mission from God."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dan Akroyd as Elwood Blues"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "167"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Cider House Rules"
+						},
+						{
+							"DATA": "Good night, you princes of Maine,\nyou kings of New England."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Michael Caine as Dr. Wilbur Larch"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "117"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Godfather"
+						},
+						{
+							"DATA": "I'm gonna make him an offer he can't refuse."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marlon Brando as Don Corelone"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1972"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "43"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Godfather"
+						},
+						{
+							"DATA": "Leave the gun.\nTake the cannoli."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Richard Castellano as Peter Clemenza"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1972"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "143"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Godfather"
+						},
+						{
+							"DATA": "It's a Sicilian message.\nIt means Luca Brasi sleeps with the fishes."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Richard Castellano as Peter Clemenza"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1972"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "145"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Godfather II"
+						},
+						{
+							"DATA": "Keep your friends close,\nbut your enemies closer."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Al Pacino as Michael Corleone"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "76"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Godfather: Part III"
+						},
+						{
+							"DATA": "Just when I thought I was out, they pull me back in!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Al Pacino as Michael Corleone"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1990"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "142"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Graduate"
+						},
+						{
+							"DATA": "Plastics."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "William Daniels as Mr. Braddock"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1967"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "70"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Graduate"
+						},
+						{
+							"DATA": "Mrs. Robinson, you're trying to seduce me. Aren't you?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Dustin Hoffman as Benjamin Braddock"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1967"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "79"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Jerk"
+						},
+						{
+							"DATA": "I was born a poor black child."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Steve Martin as Navin R. Johnson"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1979"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "128"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Karate Kid"
+						},
+						{
+							"DATA": "Wax on, wax off."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Pat Morita as Kesuke Miyagi,"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1984"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "165"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Lion King"
+						},
+						{
+							"DATA": "Hakuna Matata"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Nathan Lane as Timon"
+						},
+						{
+							"DATA": "Ernie Sabella as Pumbaa"
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "118"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Maltese Falcon"
+						},
+						{
+							"DATA": "The stuff that dreams are made of."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Humphrey Bogart as Sam Spade"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1941"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "51"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Mandalorian"
+						},
+						{
+							"DATA": "I have spoken."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Nick Nolte as Kuiil"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2019"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "140"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Mandalorian"
+						},
+						{
+							"DATA": "This is the way."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Emily Swallow as The Armorer"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2019"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "141"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Postman Always Rings Twice"
+						},
+						{
+							"DATA": "With my brains and your looks, we could go places."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "John Garfield as Frank Chambers"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1946"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "175"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Princess Bride"
+						},
+						{
+							"DATA": "Hello. My name is Inigo Montoya.\nYou killed my father.\nPrepare to die."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Mandy Patinkin as Iñigo Montoya"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "94"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Princess Bride"
+						},
+						{
+							"DATA": "Inconceivable!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Wallace Shawn as Vizzini"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "102"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Princess Bride"
+						},
+						{
+							"DATA": "Have fun storming the castle!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Billy Crystal as Miracle Max"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "119"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Sandlot"
+						},
+						{
+							"DATA": "You’re killin’ me, Smalls."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Patrick Renna as Ham Porter"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1993"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "99"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Shining"
+						},
+						{
+							"DATA": "Here's Johnny!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Jack Nicholson as Jack Torrance"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1980"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "82"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Silence of the Lambs"
+						},
+						{
+							"DATA": "A census taker once tried to test me.\nI ate his liver with some fava beans and a nice Chianti."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Anthony Hopkins as Hannibal Lechter"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1991"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "57"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Silence of the Lambs"
+						},
+						{
+							"DATA": "Hello, Clarice."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Anthony Hopkins as Dr. Hannibal Lecter"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1991"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "121"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Silence of the Lambs"
+						},
+						{
+							"DATA": "I'm having an old friend over for dinner."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Anthony Hopkins as Hannibal Lechter"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1991"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "133"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Sixth Sense"
+						},
+						{
+							"DATA": "I see dead people."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Haley Joel Osment as Cole Sear"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1999"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "71"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Terminator"
+						},
+						{
+							"DATA": "I'll be back."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Arnold Schwarzenegger as The Terminator"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1984"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "66"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Thing from Another World"
+						},
+						{
+							"DATA": "Keep watching the skies."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Douglas Spencer as Ned Scott"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1951"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "164"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Third Man"
+						},
+						{
+							"DATA": "In Switzerland, they had brotherly love, and they had 500 years of democracy and peace. And what did that produce?\nThe cuckoo clock."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Orson Welles as Harry Lime"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1949"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "138"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Treasure of the Sierra Madre"
+						},
+						{
+							"DATA": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Alfonso Bedoya as \"Gold Hat\""
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1948"
+						}
+					],
+					"_MODID": "10",
+					"_RECORDID": "13"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Wizard of Oz"
+						},
+						{
+							"DATA": "Toto, I've a feeling we're not in Kansas anymore."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Judy Garland as Dorthy Gale"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "45"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Wizard of Oz"
+						},
+						{
+							"DATA": "There's no place like home."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Judy Garland as Dorthy Gale"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "59"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Wizard of Oz"
+						},
+						{
+							"DATA": "Pay no attention to that man behind the curtain!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Frank Morgan as The Wizard of Oz"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "151"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "The Wizard of Oz"
+						},
+						{
+							"DATA": "I'll get you, my pretty, and your little dog too!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Margaret Hamilton as the Wicked Witch of the West"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1939"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "202"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "This is Spinal Tap"
+						},
+						{
+							"DATA": "These go to 11."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Christopher Guest as Nigel Tufnel"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1984"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "161"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Titanic"
+						},
+						{
+							"DATA": "I'm the king of the world!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Leonardo DiCaprio as Jack Dawson"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1997"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "92"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "To Have and Have Not"
+						},
+						{
+							"DATA": "You know how to whistle,\ndon't you, Steve?\nYou just put your lips together and blow."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Lauren Bacall as Marie 'Slim' Browning"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1945"
+						}
+					],
+					"_MODID": "2",
+					"_RECORDID": "65"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Top Gun"
+						},
+						{
+							"DATA": "I feel the need - the need for speed!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tom Cruise as Maverick"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1986"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "89"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Toy Story"
+						},
+						{
+							"DATA": "To infinity,\nand beyond!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Tim Allen as Buzz Lightyear"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1995"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "95"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Trapped in Paradise"
+						},
+						{
+							"DATA": "I took four lefts, just like the map said."
+						},
+						{
+							"DATA": "FOUR LEFTS IS A CIRCLE, YOU IDIOT."
+						},
+						{
+							"DATA": "Dana Carvey as Alvin Firpo"
+						},
+						{
+							"DATA": "Nicolas Cage as Bill Firpo"
+						},
+						{
+							"DATA": "1994"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "185"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Tropic Thunder"
+						},
+						{
+							"DATA": "I'm a dude playing a dude disguised as another dude"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Robert Downey Jr. as Kirk Lazarus"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "2008"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "93"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Wall Street"
+						},
+						{
+							"DATA": "Greed, for lack of a better word, is good."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Michael Douglas as Gordon Gekko"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1987"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "75"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Wargames"
+						},
+						{
+							"DATA": "Shall we play a game?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "John Wood as WOPR supercomputer, a.k.a. Joshua"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1983"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "154"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Wargames"
+						},
+						{
+							"DATA": "A strange game.\nThe only winning move is not to play.\nHow about a nice game of chess?"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "John Wood as WOPR supercomputer, a.k.a. Joshua"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1983"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "160"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "When Harry Met Sally..."
+						},
+						{
+							"DATA": "I'll have what she's having."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Estelle Reiner as Older Woman Customer"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1989"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "64"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "White Heat"
+						},
+						{
+							"DATA": "Made it, Ma!\nTop of the world!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "James Cagney as Cody Jarrett"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1949"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "55"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Who Framed Roger Rabbit"
+						},
+						{
+							"DATA": "I'm not bad. I'm just drawn that way."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Kathleen Turner as Jessica Rabbit"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "134"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Working Girl"
+						},
+						{
+							"DATA": "I have a head for business\nand a bod for sin."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Melanie Griffith as Tess McGill"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1988"
+						}
+					],
+					"_MODID": "0",
+					"_RECORDID": "127"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Young Frankenstein"
+						},
+						{
+							"DATA": "Put..\nthe candle...\nback!"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Gene Wilder as Dr. Frankenstein"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "186"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Young Frankenstein"
+						},
+						{
+							"DATA": "You know, I'm a rather brilliant surgeon. Perhaps I can help you with that hump."
+						},
+						{
+							"DATA": "What hump?"
+						},
+						{
+							"DATA": "Gene Wilder as Dr. Frederick Frankenstein"
+						},
+						{
+							"DATA": "Marty Feldman as Igor"
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "1",
+					"_RECORDID": "187"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Young Frankenstein"
+						},
+						{
+							"DATA": "Werewolf!"
+						},
+						{
+							"DATA": "There, wolf.\nThere, castle."
+						},
+						{
+							"DATA": "Teri Garr as Inga"
+						},
+						{
+							"DATA": "Marty Feldman as Igor"
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "188"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Young Frankenstein"
+						},
+						{
+							"DATA": "Igor, help me with the bags."
+						},
+						{
+							"DATA": "Soitenly.\nYou take the blonde,\nI'll take the one in the toiben."
+						},
+						{
+							"DATA": "Gene Wilder as Dr. Frederick Frankenstein"
+						},
+						{
+							"DATA": "Marty Feldman as Igor"
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "3",
+					"_RECORDID": "189"
+				},
+				{
+					"COL": [
+						{
+							"DATA": "Young Frankenstein"
+						},
+						{
+							"DATA": "Wait Master, it might be dangerous...\nyou go first."
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "Marty Feldman as Igor"
+						},
+						{
+							"DATA": ""
+						},
+						{
+							"DATA": "1974"
+						}
+					],
+					"_MODID": "4",
+					"_RECORDID": "190"
+				}
+			],
+			"_FOUND": "204"
+		},
+	}
+}
